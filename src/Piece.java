@@ -11,7 +11,7 @@ public abstract class Piece {
         return color;
     }
 
-    public Position get position() {
+    public Position getPosition() {
         return position;
     }
 
